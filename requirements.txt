@@ -1,0 +1,6 @@
+diffusers
+autotrain-advanced
+tensorflow
+keras-core
+datasets
+keras-cv==0.6.0
